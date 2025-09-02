@@ -81,7 +81,6 @@ SQL & Excel – Data preparation (where needed)
 
 Data Storytelling – Communicating insights with clarity
 
-📂 Repository Structure
 PowerBI-Projects/
 │
 ├── Sales-Dashboard/
@@ -103,6 +102,7 @@ PowerBI-Projects/
 │   ├── EcommerceDashboard.pbix
 │   ├── EcommerceDashboard.pdf
 │   └── README.md
+
 
 📬 Connect with Me
 
